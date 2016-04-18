@@ -1,0 +1,95 @@
+
+body {
+    font: normal 12pt Veranda, Arial, sans-serif;
+    background-color: #DDDDDD;
+}
+
+.sitetitle {
+    text-align: left;
+    font-size: 250%;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+    color: #529ecc;
+}
+
+a:visited {
+    color: #529ecc;
+}
+
+a:hover {
+    color: #74c0ee;
+}
+
+.headerlinks {
+    text-align: left;
+}
+
+.headerimage {
+    float: left;
+    padding: 10px;
+}
+
+.menubar {
+    float: left;
+    width: 100%;
+    min-height: 128px;
+}
+
+.contentwrapper {
+    margin: auto;
+    max-width: 960px;
+    background-color: #FFFFFF;
+    border-radius: 8px;
+    padding: 12pt;
+    overflow: auto;
+}
+
+.featurewrapper {
+    margin: auto;
+}
+
+.featurerowwrapper {
+    border-spacing: 20px 10px;
+    display: table;
+}
+
+.feature {
+    width: 380px;
+    background-color: #EEEEEE;
+    border-radius: 8px;
+    padding-left: 12pt;
+    padding-right: 12pt;
+    padding-bottom: 8pt;
+    display: table-cell;
+}
+
+.feature.right {
+    margin-right: 0px;
+}
+
+.mainimage {
+    margin: auto;
+    width: 100%;
+}
+
+.downloadbutton {
+    margin: auto;
+    margin-top: 18pt;
+    background-color: #EEEEEE;
+    border-radius: 8px;
+    width: 250px;
+    padding-left: 24pt;
+    padding-right: 24pt;
+    padding-bottom: 12pt;
+    padding-top: 12pt;
+    font-size: 18pt;
+}
+
+.downloadbutton:hover {
+    background-color: #F3F3F3;
+}
