@@ -94,3 +94,7 @@ a:hover {
 .downloadbutton:hover {
     background-color: #F3F3F3;
 }
+
+.authorcontact {
+    list-style-type: none;
+}
